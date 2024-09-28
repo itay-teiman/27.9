@@ -1,4 +1,4 @@
-public class SavingAccount {
+public class SavingAccount A {
 
   public  static  double AnnualInterestRate;
   private  double SavingBalance;
@@ -22,4 +22,14 @@ public class SavingAccount {
     public  double CalculateMounthlyInterest(){
       return (AnnualInterestRate/12)*SavingBalance;
     }
-}
+
+
+
+    // שינוי ערך
+   public  void (double AnnualInterestRate )
+   {
+     this.AnnualInterestRate=AnnualInterestRate;
+
+   }
+
+    }
