@@ -1,4 +1,4 @@
-public class SavingAccount A {
+public class SavingAccount  {
 
   public  static  double AnnualInterestRate;
   private  double SavingBalance;
