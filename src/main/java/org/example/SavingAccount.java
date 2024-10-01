@@ -1,3 +1,5 @@
+package org.example;
+
 public class SavingAccount  {
 
   public  static  double AnnualInterestRate;
@@ -26,10 +28,10 @@ public class SavingAccount  {
 
 
     // שינוי ערך
-   public  void (double AnnualInterestRate )
-   {
-     this.AnnualInterestRate=AnnualInterestRate;
-
-   }
+//   public  void (double AnnualInterestRate )
+//   {
+//     SavingAccount.AnnualInterestRate =AnnualInterestRate;
+//
+//   }
 
     }
